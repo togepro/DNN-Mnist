@@ -1,2 +1,2 @@
 # DNN-Mnist
-Using cplusplus to realize a neuronal network for ecognizing handwritten digits on Mnist data set
+Using cplusplus to accomplish a neural network for recognizing handwritten digits on Mnist data set
